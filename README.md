@@ -4,5 +4,5 @@ A convolutional neural network that takes an image input and decides if it is th
 ## Using the Files
 The soccer-stadium.ipynb file contains the code. Modify the root and base directories in accordance to your file locations for the image data. 
 
-Instructions to download the data from scratch are within the notebook. To only try the model, download the exported model and run the bottommost cells.
+Instructions to download the data from scratch are within the notebook. Run this code to successfully train the stadium classifier!
 
